@@ -1,0 +1,3 @@
+name: nuno1212s-t2
+main: com.tenjava.entries.nuno1212s.t2.TenJava
+version: '${project.version}'
